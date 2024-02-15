@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KausarShaikh10
+- 👀 I’m interested in Full-Stack Development, Mobile Application Development and Machine Learning
+- 📫 You can reach me through my linked in profile : https://www.linkedin.com/in/kausar-shaikh-5b432a270/
+- 😄 Pronouns: She/Her
